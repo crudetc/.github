@@ -1,4 +1,4 @@
-## Hi there 👋
+## CRUD, etc.
 
 Start here: [https://github.com/crudetc/crude](https://github.com/crudetc/crude)
 
