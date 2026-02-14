@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Start here: [https://github.com/crudetc/crude](https://github.com/crudetc/crude)
+
 <!--
 
 **Here are some ideas to get you started:**
